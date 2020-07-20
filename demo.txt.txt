@@ -1,5 +1,7 @@
 Initial Content
 
+git path:https://github.com/Chinthu-Viswa/git-blog-demo.git
+
 Initial Content Adding more Content
 
 Initial Content Adding more Content Adding some Content from test Branch
